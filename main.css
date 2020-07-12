@@ -1,0 +1,11 @@
+.wrapper {
+  padding: 100px 20px;
+  display: flex;
+  justify-content: center;
+}
+
+canvas {
+  border: 1px solid green;
+}
+
+/*# sourceMappingURL=main.css.map */
